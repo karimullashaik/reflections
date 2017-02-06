@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It simply captures meta data of list of files that were in a directory that are not yet  added for commit .
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory contains the files that have been commited to the GIT whereas staging contains the files that are neither commited yet first time or files were modified
